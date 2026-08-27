@@ -1,0 +1,8 @@
+Time=0   | Object=0 | Full=0 | Lid=0 | Full_LED=0
+Time=25  | Object=1 | Full=0 | Lid=1 | Full_LED=0
+Time=35  | Object=0 | Full=0 | Lid=1 | Full_LED=0
+Time=85  | Object=0 | Full=0 | Lid=0 | Full_LED=0
+Time=95  | Object=0 | Full=1 | Lid=0 | Full_LED=1
+Time=115 | Object=0 | Full=0 | Lid=0 | Full_LED=0
+
+Simulation completed successfully.
